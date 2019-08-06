@@ -1,0 +1,7 @@
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\bin\Debug\Data_Collector.exe.config
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\bin\Debug\Data_Collector.exe
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\bin\Debug\Data_Collector.pdb
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\obj\Debug\Data_Collector.csprojResolveAssemblyReference.cache
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\obj\Debug\Data_Collector.csproj.CoreCompileInputs.cache
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\obj\Debug\Data_Collector.exe
+C:\Users\Parth Chonkar\Desktop\Prototype\Data_Collector\Data_Collector\obj\Debug\Data_Collector.pdb

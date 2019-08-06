@@ -1,0 +1,11 @@
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\bin\Debug\netcoreapp2.0\Predict.deps.json
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\bin\Debug\netcoreapp2.0\Predict.runtimeconfig.json
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\bin\Debug\netcoreapp2.0\Predict.runtimeconfig.dev.json
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\bin\Debug\netcoreapp2.0\Predict.dll
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\bin\Debug\netcoreapp2.0\Predict.pdb
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\obj\Debug\netcoreapp2.0\Predict.csprojResolveAssemblyReference.cache
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\obj\Debug\netcoreapp2.0\Predict.csproj.CoreCompileInputs.cache
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\obj\Debug\netcoreapp2.0\Predict.AssemblyInfoInputs.cache
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\obj\Debug\netcoreapp2.0\Predict.AssemblyInfo.cs
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\obj\Debug\netcoreapp2.0\Predict.dll
+c:\users\parth chonkar\desktop\prototype\Predict\Predict\obj\Debug\netcoreapp2.0\Predict.pdb
